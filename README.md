@@ -1,7 +1,4 @@
 # EntreAjuda-app
-Plataforma civica para coordenação de ajuda em situações de crise e emergência.
-
-# [Nome do Projeto]
 
 Uma plataforma cívica, open-source e orientada à privacidade
 para coordenação de ajuda em situações de crise e emergência.
