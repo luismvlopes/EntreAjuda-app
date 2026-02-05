@@ -7,5 +7,6 @@ public enum Categoria {
     VESTUARIO,
     LIMPEZA,
     APOIO_PSICOLOGICO,
+    ALIMENTACAO,
     OUTROS
 }
